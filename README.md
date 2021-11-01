@@ -6,6 +6,6 @@ A new Flutter project.
 
 <img src="https://github.com/HaseebImd/Payment-App-UI-Flutter/blob/master/images/1.png?raw=true" alt="Girl in a jacket">
 <br>
-<img src="https://github.com/HaseebImd/Flutter-UI-Payment-App/blob/main/images/2.png?raw=true" alt="Girl in a jacket">
+<img src="https://github.com/HaseebImd/Payment-App-UI-Flutter/blob/master/images/2.png?raw=true" alt="Girl in a jacket">
 <br>
 <img src="https://github.com/HaseebImd/Payment-App-UI-Flutter/blob/master/images/3.png?raw=true" alt="Girl in a jacket">
